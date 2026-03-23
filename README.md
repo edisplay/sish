@@ -10,7 +10,7 @@ SSH and run your own infrastructure, `sish` is built for that.
 - Docker and binary releases
 - Designed for production-grade self-hosting
 
-[Docs](https://docs.ssi.sh) | [Managed Service](https://tuns.sh) | [Releases](https://github.com/antoniomika/sish/releases) | [Docker Images](https://hub.docker.com/r/antoniomika/sish/tags)
+[Docs](https://docs.ssi.sh) | [Managed Service](https://tuns.sh) | [Releases](https://github.com/antoniomika/sish/releases) | [Docker Images](https://hub.docker.com/r/antoniomika/sish/tags) | [Sponsored by pico.sh](https://pico.sh)
 
 ## Why sish
 
